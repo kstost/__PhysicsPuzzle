@@ -1,0 +1,1 @@
+function install_pixi_extend_prototype(){console.log(PIXI.Container)}

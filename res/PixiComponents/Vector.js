@@ -1,0 +1,1 @@
+(function(){var t=function(t){for(var i in t)this[i]=t[i]};t.prototype={},this.Vector=t}).call(this);

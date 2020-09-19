@@ -1,0 +1,1 @@
+(function(){var t=function(){this.dict={}};t.prototype={set:function(t,i,c){var n=this;return void 0!==i&&("minus"==c?n.dict[t]-=i:"plus"==c?n.dict[t]+=i:n.dict[t]=i),n.dict[t]},get:function(t,i,c){var n=this;return void 0===n.dict[t]&&void 0!==i&&("Function"===i.constructor.name&&c?n.dict[t]=i():n.dict[t]=i),n.dict[t]}},this.AdvStore=t}).call(this);

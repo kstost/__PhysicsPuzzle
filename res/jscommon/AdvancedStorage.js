@@ -1,0 +1,1 @@
+(function(){var t=function(){this.dict={}};t.prototype={set:function(t,i,c){var d=this;return void 0!==i&&("minus"==c?d.dict[t]-=i:"plus"==c?d.dict[t]+=i:d.dict[t]=i),d.dict[t]},get:function(t,i){var c=this;return void 0===c.dict[t]&&void 0!==i&&(c.dict[t]=i),c.dict[t]}},this.AdvancedStorage=t}).call(this);
